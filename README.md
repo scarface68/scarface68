@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react, C++, Football**
 
-- ⚡ Fun fact **Messi is the greates football player of all time. 🐐**
+- ⚡ Fun fact **Messi is the greatest football player of all time. 🐐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
